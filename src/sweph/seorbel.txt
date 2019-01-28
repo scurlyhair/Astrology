@@ -1,0 +1,3 @@
+# Selena/White Moon
+
+J2000,JDATE, 242.2205555, 0.05279142865925, 0.0, 0.0, 0.0, 0.0, Selena/White Moon, geo # 1
